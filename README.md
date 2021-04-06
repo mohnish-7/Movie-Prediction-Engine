@@ -4,9 +4,9 @@ This software helps you select a movie to watch by making recommendations based 
 # Instructions to Use this Software
 
     * Download all the files into a single folder.
-    * Open Jupyter Notebook and open the "Amazon Review Prediction Using Machine Learning.ipynb".
+    * Open Jupyter Notebook and open the "Movie Recommendation Engine.ipynb".
     * Follow the on-screen instructions to run the program.
-    * If you don't have Jupyter Notebool or any Notebook IDE, run the "Amazon Review Prediction Using Machine Learning.py" file using your command prompt.
+    * If you don't have Jupyter Notebool or any Notebook IDE, run the "start.py" file using your command prompt.
     * Feel free to test the software and report any bugs or errors or feedback via email: mohnish_official@icloud.com
     
     
