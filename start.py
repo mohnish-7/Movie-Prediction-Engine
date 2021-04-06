@@ -7,8 +7,9 @@ def main():
     from sklearn.metrics.pairwise import cosine_similarity
     from sklearn.feature_extraction.text import CountVectorizer
     from pickle import load,dump
+    from os import system
     df = pd.read_csv('Datasets/movies_data.csv')
-
+    __clean__ = system('cls')
     # Function to create a string of important features for each movie.
 
     def get_imp_features(data) :
