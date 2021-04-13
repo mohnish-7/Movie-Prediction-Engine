@@ -2,7 +2,7 @@
 
 The objective of this project is to recommend, the user, a movie to watch. The recommendation is made based on the title, genre, parents guide certificate, director and the cast of the movie, the user had watched previously. This software uses Natural Language Processing and Cosine Similarity to recommend a movie. The list of similarity scores of the movie (the user previously watched) with the other movies is obtained. Then from this list the 7 movies with the highest similarity scores are recommended to the user.
 
-To use this software, take a look at the README.md file on my GitHub repository and follow the instructions. All kinds of feedback are welcome, email at mohnish_official@icloud.com
+All kinds of feedback are welcome, email at mohnish_official@icloud.com
 
 P.S. Due to insufficient data, some of the results might not be accurate.
 
